@@ -143,6 +143,10 @@ I will go over basic of python and jupyter notebook.
 |-------------------------------+-------+----------------------------------------+----------|
 |                               |       |                                        |          |
 
+
+* Notebook
+**  2 April
+  - [[https://mybinder.org/v2/gh/psnegi/data_mining/master?filepath=notebooks/data_mining_introduction.ipynb][data mining intro]]
 * Course Activity
 
 | Date      | Reading/Coding Assignments | class activity |
