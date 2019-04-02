@@ -110,9 +110,9 @@ I am using python 3.5.2. Hopefully any version of python 3 should work.
 - *apt-get install python3-venv*
 - Using command line(*cd command*), go to the folder where you want to keep python file, notebooks related to this course.
 - run *python3 -m venv /path/to/new/virtual/environment*
-  + e.g. I ran *python3 -m venv dst1_env*
+  + e.g. I ran *python3 -m venv data_mining_env*
 - To activate your environment run *source /path/to/new/virtual/environment/bin/activate*
-  + e.g From this course directory I run, *source dst1_env/bin/activate*
+  + e.g From this course directory I run, *source data_mining_env/bin/activate*
 
 - run *python3 -m pip install \-\-upgrade pip*. Note that there are 2 dashes in upgrade option.
 - run *wget https://raw.githubusercontent.com/psnegi/data_science_tools1/master/requirements.txt*
