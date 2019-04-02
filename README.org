@@ -27,14 +27,6 @@ For the final project, students will work through  individual or team projects a
 
 *Please start looking for  a project. You are allowed to have a group of 2 to 3 students but project work must justify team count.*
 
-*** Final Project plan
- - Team members
- - Motivation
- - Literature review
- - Planned work
- - Timeline
-
-
 ** Syllabus
 *This syllabus is subject to change at the discretion of the instructor*.
 
@@ -150,13 +142,13 @@ I will go over basic of python and jupyter notebook.
 
 * Course Activity
 
-| Date      | Reading/Coding Assignments | class activity                                                                                                |
-|-----------+----------------------------+---------------------------------------------------------------------------------------------------------------|
-|-----------+----------------------------+---------------------------------------------------------------------------------------------------------------|
-| 1 - April | see the notebook           | Reviewed basics of hypothesis testing framework.                                                              |
-|           |                            | Please make sure you check all the assumption of a test before using it.                                      |
-|           |                            | Also start looking for dataset for the final project. There will be an assignment asking for project proposal |
-|           |                            |                                                                                                               |
-|-----------+----------------------------+---------------------------------------------------------------------------------------------------------------|
-|-----------+----------------------------+---------------------------------------------------------------------------------------------------------------|
-|           |                            |                                                                                                               |
+| Date      | Reading/Coding Assignments | class activity |
+|-----------+----------------------------+----------------|
+|-----------+----------------------------+----------------|
+| 2 - April | read chapter 1 and 2       |                |
+|           |                            |                |
+|           |                            |                |
+|           |                            |                |
+|-----------+----------------------------+----------------|
+|-----------+----------------------------+----------------|
+|           |                            |                |
