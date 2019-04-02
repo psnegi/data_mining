@@ -8,8 +8,10 @@
   - Prerequisite: *Good understanding of Linear algebra, probability & statistics, calculus and some programming experience in python*
 ** Books 
    - [[http://www.dataminingbook.info/pmwiki.php][Data Mining and Analysis: Fundamental Concepts and Algorithms 1st Edition]]
+   
+Readings from the book will be posted on the course schedule
 
-     more to come
+
 ** Optional material online
 
 
@@ -23,13 +25,14 @@ algebraic, statistical and geometric foundations of these topics.
 We'll use [[http://jupyter.org/][jupyter notebook/lab]] for in the class and homeworks assignments. You are expected to learn [[https://www.python.org/][python]] on your own via tutorials etc.
 We'll also cover scientific python eco system libraries like numpy, sklearn and matplotlib. *Please see Software installation section to see how to setup computational environment.*
 
-For the final project, students will work through  individual or team projects applying course-work within a particular domain.
-
-*Please start looking for  a project. You are allowed to have a group of 2 to 3 students but project work must justify team count.*
 
 ** Syllabus
 *This syllabus is subject to change at the discretion of the instructor*.
-
+- pattern mining,
+- classification,
+- regression
+- clustering
+- text mining
 
 
 * Grading
@@ -127,8 +130,6 @@ I will go over basic of python and jupyter notebook.
    - [[https://try.jupyter.org/][try python notebook online without installing anything]]
    - [[http://pythontutor.com/live.html#mode%3Dedit][Runs and visualizes your python code]]
    - [[https://docs.python.org/3/tutorial/index.html][The Python Tutorial]]  
-*** data analysis tools in python
-  - more to come
 
 * Homeworks
 *No late hw will be accepted*
