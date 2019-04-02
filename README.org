@@ -1,11 +1,11 @@
-* Data Science Tools 1
+* Data Mining
   - Course: Data Mining - COMP 3431 2, Data Mining - COMP 4431 1
   - Class time: Tue, Thu  05:00 PM -  06:50 PM  |Engineering & Computer Science | Room 410
   - Instructor: /Pooran Singh Negi, pooran.negi@du.edu/ [[https://sites.google.com/site/poorannegi/][webpage]]
   - Office: 470
   - Office Hours: Tue, Thu,  6.50 p.m. - 8.50 p.m. Email for 1-on-1 help.
   - GTA: Mitchell Wright, GTA office hours to be added
-  - Prerequisite: Good understanding of Linear algebra, calculus and some programming experience in python 
+  - Prerequisite: *Good understanding of Linear algebra, probability & statistics, calculus and some programming experience in python*
 ** Books 
    - [[http://www.dataminingbook.info/pmwiki.php][Data Mining and Analysis: Fundamental Concepts and Algorithms 1st Edition]]
 
@@ -17,62 +17,46 @@
 It is recommended that you consult this github page often for material related to this course. You should check your e-mail periodically for messages.
 Assignments will be upload here and in the [[https://canvas.du.edu/login/ldap][canvas]].
 
-We'll continue data science life cycle after data cleanup and summarization. The main objective of data science tools 2 is to learn various tools to perform data analysis.
-Primary focus in tools 2 is statistical testing, feature engineering and
-building effective predictive models. We'll use [[http://jupyter.org/][jupyter notebook/lab]] for in the class and homeworks assignments.
+This course will provide introduction to some topics in data mining like classification, regression, clustering and knowledge discovery. We'll also go over
+algebraic, statistical and geometric foundations of these topics. 
 
-For the final project, students will work through  individual or team projects applying course-work
-to the  data lifecycle within a particular domain. The focus will also be
-on best data science/software engineering practices and reproducible work.
+We'll use [[http://jupyter.org/][jupyter notebook/lab]] for in the class and homeworks assignments. You are expected to learn [[https://www.python.org/][python]] on your own via tutorials etc.
+We'll also cover scientific python eco system libraries like numpy, sklearn and matplotlib. *Please see Software installation section to see how to setup computational environment.*
 
-*Please start looking for  a project. You are allowed to have a group of 2 to 3 students but project work must justify team count.* There will be a homework asking about the detail of your final project. We'll provide feedback about feasibility of the final project.
-*Final project, can be based on initial data science tool1 work or capstone work?. Please let us know if this is the case. We need to go over details.*
+For the final project, students will work through  individual or team projects applying course-work within a particular domain.
 
-*** Project proposal(not graded, submit a jupyter notebook)
+*Please start looking for  a project. You are allowed to have a group of 2 to 3 students but project work must justify team count.*
+
+*** Final Project plan
  - Team members
  - Motivation
  - Literature review
  - Planned work
- - Model evaluation and selection.
  - Timeline
 
-*We'll ask about project progress throughout the course work* 
 
 ** Syllabus
 *This syllabus is subject to change at the discretion of the instructor*.
-- Statistical testing
-- Feature engineering
-- NLP word representation
-- Time series analysis
-- Cloud computing basics(AWS EC2, S3, IAM etc.)
-- Severless computing, AWS lambda (may be will use Alexa skill), building REST API etc.
-- Stats model for linear regression
-- statsmodels and sklearn for logistic regression
-- model evaluation and selection
 
- *Linux command line and scientific python ( primarily numpy, statsmodels, sklearn, matplotlib, request, seaborn, basic pandas) will be used throughout the course.*
+
 
 * Grading
-*There will be  coding/analysis homework assignments, midterm and a final project. We'll drop one of your worst assignment grade*.
+*There will be  written/coding homework assignments, midterm , a final and a final project presentation. We'll drop one of your worst assignment grade*.
 We'll allow 2 late homework with cutoff of 36 hours. We'll give *ceil(total_marks_obtained*exp(-(minutes late)/(24*60)))* marks  for  late submitted assignments via email.
-There will be a final presentation of the final project.
-You will be required to  submit a project plan document and a final project report in the jupyter notebook format.
 
-** [[./project_presentation.org][project project presentation grading  rubric]]
-** [[./project_rubric.org][final project report grading rubric]]
+
 
 ** Dates
 
 |---------------------------------------------------------------------------------------------------------+-----|
-| coding Homework                                                                                         | 35% |
+| Homework  and may be a final project challenge                                                          | 40% |
 |---------------------------------------------------------------------------------------------------------+-----|
-| Midterm, 8 th May in class                                                                              | 25% |
+| Midterm, 7 th May in class                                                                              | 25% |
 |---------------------------------------------------------------------------------------------------------+-----|
-| Final project presentation, 8 minutes, 5th June in class                                                | 10% |
+| Final, 11 th June in class                                                                              | 35% |
 |---------------------------------------------------------------------------------------------------------+-----|
-| Final project report, due 5 th June, please refer to above final report format for submission guideline | 30% |
-|---------------------------------------------------------------------------------------------------------+-----|
-|                                                                                                         |     |
+
+
 
 ** Final course grading rubric
 
@@ -102,19 +86,7 @@ by the end of first week of classes.* Visit [[https://www.du.edu/studentlife/dis
 * Withdrawal Policy
 Please see [[https://www.du.edu/registrar/calendar/][registrar calender]] for Academic deadlines. *We'll strictly follow the deadlines.*
 
-* Data set for Projects
-  - You can collect the dataset for your project.
-    + Web scraping, web API (for natural language processing one can use the New York Times, twitter etc.)
-  - I am looking around to find noisy dataset for practice.
-    + See [[https://makingnoiseandhearingthings.com/2018/04/19/datasets-for-data-cleaning-practice/][Datasets for data cleaning practice]] by Rachael Tatman
-  - [[https://www.kdnuggets.com/datasets/index.html][Datasets for Data Mining and Data Science]]
-  - [[http://data.europa.eu/euodp/en/about][The EU Open Data Portal]]
-  - [[https://data.worldbank.org/][World Bank Open Data]]
-  - [[https://www.data.gov/][The home of the U.S. Government’s open data]]
- 
- We need to know your project/dataset, before we approve it for final project. 
-
- More to come.
+ more to come
      
 * Software Installation
 ** Python
