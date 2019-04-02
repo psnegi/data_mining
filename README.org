@@ -36,7 +36,7 @@ We'll also cover scientific python eco system libraries like numpy, sklearn and 
 
 
 * Grading
-*There will be  written/coding homework assignments, quizzes,  midterm , a final and a final project presentation. We'll drop one of your worst assignment grade*.
+*There will be  written/coding homework assignments, quizzes,  midterm and a final. We'll drop one of your worst assignment grade*.
 We'll allow 2 late homework with cutoff of 36 hours. We'll give *ceil(total_marks_obtained*exp(-(minutes late)/(24*60)))* marks  for  late submitted assignments via email.
 
 
