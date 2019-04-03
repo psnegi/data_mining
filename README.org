@@ -156,7 +156,7 @@ I will go over basic of python and jupyter notebook.
 |           |                            | *Please review, linear independence, column space, row space, rank of matrix*                                                    |
 |           |                            | *From probability part go over random variables, probability mass function and density function*                                 |
 |           |                            | *Go over Bernoulli, Binomial and normal random variable*                                                                         |
-|           |                            | If you have trouble creating virtual environment please install anaconda from                                                    |
+|           |                            | If you have trouble creating virtual environment please install anaconda python 3.7 from                                         |
 |           |                            | https://www.anaconda.com/distribution/#download-section                                                                          |
 |           |                            |                                                                                                                                  |
 |           |                            | See video for installation https://www.youtube.com/watch?v=OOFONKvaz0A                                                           |
