@@ -149,12 +149,23 @@ I will go over basic of python and jupyter notebook.
   - [[https://mybinder.org/v2/gh/psnegi/data_mining/master?filepath=notebooks/data_mining_introduction.ipynb][data mining intro]]
 * Course Activity
 
-| Date      | Reading/Coding Assignments | class activity |
-|-----------+----------------------------+----------------|
-|-----------+----------------------------+----------------|
-| 2 - April | read chapter 1             |                |
-|           |                            |                |
-|           |                            |                |
-|-----------+----------------------------+----------------|
-|-----------+----------------------------+----------------|
-|           |                            |                |
+| Date      | Reading/Coding Assignments | class activity                                                                                                                   |
+|-----------+----------------------------+----------------------------------------------------------------------------------------------------------------------------------|
+|-----------+----------------------------+----------------------------------------------------------------------------------------------------------------------------------|
+| 2 - April | read chapter 1             | Went over Data Matrix view, properties of vector, projections                                                                    |
+|           |                            | *Please review, linear independence, column space, row space, rank of matrix*                                                    |
+|           |                            | *From probability part go over random variables, probability mass function and density function*                                 |
+|           |                            | *Go over Bernoulli, Binomial and normal random variable*                                                                         |
+|           |                            | If you have trouble creating virtual environment please install anaconda from                                                    |
+|           |                            | https://www.anaconda.com/distribution/#download-section                                                                          |
+|           |                            |                                                                                                                                  |
+|           |                            | See video for installation https://www.youtube.com/watch?v=OOFONKvaz0A                                                           |
+|           |                            |                                                                                                                                  |
+|           |                            | To download the notebooks from course website, go inside notebook folder, click on notebook.                                     |
+|           |                            | This  should render static notebook(You can't run it). Click on raw option, then save resulting                                  |
+|           |                            | file in folder. You may want to put "" around file name before saving it, otherwise the extension will be .txt                   |
+|           |                            | Fire up anaconda and use jupyter notebook. You need to load downloaded notebook.                                                 |
+|           |                            | *To run the cell in notebook press ctr+alt(it will run the cell and create a new empty cell) or ctr+enter(it will run the cell)* |
+|-----------+----------------------------+----------------------------------------------------------------------------------------------------------------------------------|
+|-----------+----------------------------+----------------------------------------------------------------------------------------------------------------------------------|
+|           |                            |                                                                                                                                  |
