@@ -147,6 +147,8 @@ I will go over basic of python and jupyter notebook.
 * Notebook
 **  2 April
   - [[https://mybinder.org/v2/gh/psnegi/data_mining/master?filepath=notebooks/data_mining_introduction.ipynb][data mining intro]]
+** 4 April
+  -   - [[https://mybinder.org/v2/gh/psnegi/data_mining/master?filepath=notebooks/MVN_demo.ipynb][multi variate gaussian]]
 * Course Activity
 
 | Date      | Reading/Coding Assignments | class activity                                                                                                                   |
