@@ -149,7 +149,7 @@ We'll allow 2 late homework with cutoff of 36 hours. We'll give *ceil(total_mark
 |       | *Note: Only  chapter 1 Q2 and chapter 2 Q4 has a choice depending*  |                                                             |          |
 |       | *on your enrollment otherwise solve all the assigned the problems.* |                                                             |          |
 |       |                                                                     |                                                             |          |
-|       | *Online submission jupyter notebook::*                              |                                                             |          |
+|       | *Online submission jupyter notebook(use numpy and matplotlib)::*    |                                                             |          |
 |       | Chapter2: Q 2(.2 point each part), 8(1 point), 10(a)(.2 points)     |                                                             |          |
 |       |                                                                     |                                                             |          |
 |-------+---------------------------------------------------------------------+-------------------------------------------------------------+----------|
