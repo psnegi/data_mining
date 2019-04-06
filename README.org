@@ -143,8 +143,8 @@ We'll allow 2 late homework with cutoff of 36 hours. We'll give *ceil(total_mark
 |-------+-----------------------------------------------------------------+-------------------------------------------------------------+----------|
 |       | *Written part(please write solution clearly)::*                 | *Written Part:* In class 11 th April                        |          |
 |       | (1 point each)                                                  |                                                             |          |
-|     1 | Chapter1: Q 2                                                   |                                                             |          |
-|       | Chapter2: Q 1, 4, 5, 6, 7                                       | *Jupyter notebook:* Online via canvas 13 th April 11.59 p.m |          |
+|     1 | Chapter1: Q 2(*only if enrolled in COMP 4431*)                  |                                                             |          |
+|       | Chapter2: Q 1, 4(*only if enrolled in COMP 3431*), 5, 6, 7      | *Jupyter notebook:* Online via canvas 13 th April 11.59 p.m |          |
 |       |                                                                 |                                                             |          |
 |       | *Online submission jupyter notebook::*                          |                                                             |          |
 |       | Chapter2: Q 2(.2 point each part), 8(1 point), 10(a)(.2 points) |                                                             |          |
