@@ -3,7 +3,7 @@
   - Class time: Tue, Thu  05:00 PM -  06:50 PM  |Engineering & Computer Science | Room 410
   - Instructor: /Pooran Singh Negi, pooran.negi@du.edu/ [[https://sites.google.com/site/poorannegi/][webpage]]
   - Office: 470
-  - Office Hours: Tue, Thu,  6.50 p.m. - 8.50 p.m. Email for 1-on-1 help.
+  - Office Hours: Tue, Thu,  6.50 p.m. - 8.20 p.m. Email for 1-on-1 help.
   - GTA: Mitchell Wright, GTA office hours to be added
   - Prerequisite: *Good understanding of Linear algebra, probability & statistics, calculus and some programming experience in python*
 ** Books 
@@ -134,15 +134,22 @@ I will go over basic of python and jupyter notebook.
    - [[https://docs.python.org/3/tutorial/index.html][The Python Tutorial]]  
 
 * Homeworks
-*No late hw will be accepted*
+We'll allow 2 late homework with cutoff of 36 hours. We'll give *ceil(total_marks_obtained*exp(-(minutes late)/(24*60)))* marks  for  late submitted assignments via email.
 
-|-------------------------------+-------+----------------------------------------+----------|
-|                               | HW no | description and links                  | solution |
-| Due date                      |       |                                        |          |
-|-------------------------------+-------+----------------------------------------+----------|
-|-------------------------------+-------+----------------------------------------+----------|
-|                               |       |                                        |          |
-
+|-------+-----------------------------------------------------------------+-------------------------------------------------------------+----------|
+| HW no | description and links                                           |                                                             | solution |
+|       |                                                                 | Due date                                                    |          |
+|-------+-----------------------------------------------------------------+-------------------------------------------------------------+----------|
+|-------+-----------------------------------------------------------------+-------------------------------------------------------------+----------|
+|       | *Written part(please write solution clearly)::*                 | *Written Part:* In class 11 th April                        |          |
+|       | (1 point each)                                                  |                                                             |          |
+|     1 | Chapter1: Q 2                                                   |                                                             |          |
+|       | Chapter2: Q 1, 4, 5, 6, 7                                       | *Jupyter notebook:* Online via canvas 13 th April 11.59 p.m |          |
+|       |                                                                 |                                                             |          |
+|       | *Online submission jupyter notebook::*                          |                                                             |          |
+|       | Chapter2: Q 2(.2 point each part), 8(1 point), 10(a)(.2 points) |                                                             |          |
+|-------+-----------------------------------------------------------------+-------------------------------------------------------------+----------|
+|       |                                                                 |                                                             |          |
 
 * Notebook
 **  2 April
