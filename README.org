@@ -194,5 +194,7 @@ We'll allow 2 late homework with cutoff of 36 hours. We'll give *ceil(total_mark
 |             |                                    | For quick overview see [[https://metacademy.org/graphs/concepts/lagrange_duality#focus%253Dlagrange_multipliers&mode%253Dlearn][metacademy]]                                                                                                |
 |-------------+------------------------------------+----------------------------------------------------------------------------------------------------------------------------------|
 |-------------+------------------------------------+----------------------------------------------------------------------------------------------------------------------------------|
-| 16 th April | Chapter 20                         |                                                                                                                                  |
+| 16 th April | Chapter 20  (ignore kernel part)   | PCA via SVD, minimizing error in PCA is same as maximizing variance, Derived LDA for two classes,                                |
+|             |                                    | Talked about dimensionality of data in the LDA(Fisher Discriminant analysis) space.                                              |
+|-------------+------------------------------------+----------------------------------------------------------------------------------------------------------------------------------|
 |             |                                    |                                                                                                                                  |
