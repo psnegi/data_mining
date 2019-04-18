@@ -197,4 +197,6 @@ We'll allow 2 late homework with cutoff of 36 hours. We'll give *ceil(total_mark
 | 16 th April | Chapter 20  (ignore kernel part)   | PCA via SVD, minimizing error in PCA is same as maximizing variance, Derived LDA for two classes,                                |
 |             |                                    | Talked about dimensionality of data in the LDA(Fisher Discriminant analysis) space.                                              |
 |-------------+------------------------------------+----------------------------------------------------------------------------------------------------------------------------------|
+| 18 th April | Chapter 5 (Kernel method)          |                                                                                                                                  |
+|-------------+------------------------------------+----------------------------------------------------------------------------------------------------------------------------------|
 |             |                                    |                                                                                                                                  |
