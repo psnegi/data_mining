@@ -154,7 +154,9 @@ We'll allow 2 late homework with cutoff of 36 hours. We'll give *ceil(total_mark
 |       |                                                                     |                                                             |          |
 |-------+---------------------------------------------------------------------+-------------------------------------------------------------+----------|
 |     2 | Solve the problems in the [[./hws/HW_2_coding_PCA.ipynb][pca notebook]]                              | 21 st April 11.59 p.m                                       |          |
-
+|-------+---------------------------------------------------------------------+-------------------------------------------------------------+----------|
+|     3 | Solve the problems in this [[./hws/HW3_LDA.ipynb][FLDA]] notebook                            | 28 th April 11.59 p.m                                       |          |
+|       |                                                                     |                                                             |          |
 * Notebook
 **  2 April
   - [[https://mybinder.org/v2/gh/psnegi/data_mining/master?filepath=notebooks/data_mining_introduction.ipynb][data mining intro]]
