@@ -204,5 +204,5 @@ We'll allow 2 late homework with cutoff of 36 hours. We'll give *ceil(total_mark
 |-------------+------------------------------------+----------------------------------------------------------------------------------------------------------------------------------|
 | 23 rd April |                                    | Finished kernel, mercer theorem and idea of kernelization. Started with kernel PCA.                                              |
 |-------------+------------------------------------+----------------------------------------------------------------------------------------------------------------------------------|
-| 25 th April |                                    | Finished kernel PCA, idea of centralization matrix $K= I- 1^T 1$ from left and right. Started with linear regression.            |
+| 25 th April |                                    | Finished kernel PCA, idea of centralization matrix $H= I- 1^T 1$ from left and right. Started with linear regression.            |
 |             |                                    |                                                                                                                                  |
