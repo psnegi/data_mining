@@ -168,6 +168,8 @@ We'll allow 2 late homework with cutoff of 36 hours. We'll give *ceil(total_mark
 |       |                                                                     |                                                             |          |
 |-------+---------------------------------------------------------------------+-------------------------------------------------------------+----------|
 |       |                                                                     |                                                             |          |
+* Midterm
+  - [[./hws/sample_midterm.pdf][practice midterm]]
 * Notebook
 **  2 April
   - [[https://mybinder.org/v2/gh/psnegi/data_mining/master?filepath=notebooks/data_mining_introduction.ipynb][data mining intro]]
