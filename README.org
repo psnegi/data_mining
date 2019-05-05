@@ -7,11 +7,14 @@
   - GTA: Mitchell Wright, GTA office hours, 3-5 on Monday and 3-5 on Wednesday
   - Prerequisite: *Good understanding of Linear algebra, probability & statistics, calculus and some programming experience in python*
 ** Books 
+*** required
    - [[http://www.dataminingbook.info/pmwiki.php][Data Mining and Analysis: Fundamental Concepts and Algorithms 1st Edition]]
    
 Readings from the book will be posted on the course schedule
 
-
+*** Optional
+ - [[http://www-bcf.usc.edu/~gareth/ISL/][An Introduction to Statistical Learning]]
+ - [[https://web.stanford.edu/~hastie/ElemStatLearn/][The Elements of Statistical Learning: Data Mining, Inference, and Prediction.]] by Hastie, Tibshirani and Friedman
 ** Optional material online
 
 
