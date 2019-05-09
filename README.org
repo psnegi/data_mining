@@ -175,6 +175,8 @@ We'll allow 2 late homework with cutoff of 36 hours. We'll give *ceil(total_mark
   - [[https://mybinder.org/v2/gh/psnegi/data_mining/master?filepath=notebooks/data_mining_introduction.ipynb][data mining intro]]
 ** 4 April
   -   - [[https://mybinder.org/v2/gh/psnegi/data_mining/master?filepath=notebooks/MVN_demo.ipynb][multi variate gaussian]]
+** 9 th May
+   [[https://colab.research.google.com/github/psnegi/data_mining/blob/master/notebooks/ridge_regression_code.ipynb][ridge regression]]
 * Course Activity
 
 | Date        | Reading/Coding Assignments         | class activity                                                                                                                             |
