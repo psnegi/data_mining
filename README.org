@@ -179,53 +179,57 @@ We'll allow 2 late homework with cutoff of 36 hours. We'll give *ceil(total_mark
    [[https://colab.research.google.com/github/psnegi/data_mining/blob/master/notebooks/ridge_regression_code.ipynb][ridge regression]]
 * Course Activity
 
-| Date        | Reading/Coding Assignments         | class activity                                                                                                                             |
-|-------------+------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------|
-|-------------+------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------|
-| 2 - April   | read chapter 1                     | Went over Data Matrix view, properties of vector, projections                                                                              |
-|             |                                    | *Please review, linear independence, column space, row space, rank of matrix*                                                              |
-|             |                                    | *From probability part go over random variables, probability mass function and density function*                                           |
-|             |                                    | *Go over Bernoulli, Binomial and normal random variable*                                                                                   |
-|             | [[https://1drv.ms/o/s!AuJzJXvAm2RThmzwwfh46bqSdtLr][In class scribed notes]]             | If you have trouble creating virtual environment please install anaconda python 3.7 from                                                   |
-|             |                                    | https://www.anaconda.com/distribution/#download-section                                                                                    |
-|             |                                    |                                                                                                                                            |
-|             |                                    | See video for installation https://www.youtube.com/watch?v=OOFONKvaz0A                                                                     |
-|             |                                    |                                                                                                                                            |
-|             |                                    | To download the notebooks from course website, go inside notebook folder, click on notebook.                                               |
-|             |                                    | This  should render static notebook(You can't run it). Click on raw option, then save resulting                                            |
-|             |                                    | file in folder. You may want to put "" around file name before saving it, otherwise the extension will be .txt                             |
-|             |                                    | Fire up anaconda and use jupyter notebook. You need to load downloaded notebook.                                                           |
-|             |                                    | *To run the cell in notebook press ctr+alt(it will run the cell and create a new empty cell) or ctr+enter(it will run the cell)*           |
-|-------------+------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------|
-|-------------+------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------|
-| 4 April     | read chapter 2                     | Started with the probabilistic view of the attributes and connection with linear algebra  is highlighted.                                  |
-|-------------+------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------|
-|-------------+------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------|
-| 9 th April  | read chapter 7 (ignore kernel PCA) | multi variate random variable and co variance matrix, its property. change of basis formula. Started with PCA motivation.                  |
-|-------------+------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------|
-|-------------+------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------|
-| 11 th April | chapter 7                          | PCA derivation and application of re construction for image denoising.                                                                     |
-|             |                                    | Convex optimization is not required but if you are interested here is the link to [[http://web.stanford.edu/class/ee364a/][Convex Optimization I]]                                    |
-|             |                                    | by Professor  Stephen Boyd, Stanford University.                                                                                           |
-|             |                                    |                                                                                                                                            |
-|             |                                    | For quick overview see [[https://metacademy.org/graphs/concepts/lagrange_duality#focus%253Dlagrange_multipliers&mode%253Dlearn][metacademy]]                                                                                                          |
-|-------------+------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------|
-|-------------+------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------|
-| 16 th April | Chapter 20  (ignore kernel part)   | PCA via SVD, minimizing error in PCA is same as maximizing variance, Derived LDA for two classes,                                          |
-|             |                                    | Talked about dimensionality of data in the LDA(Fisher Discriminant analysis) space.                                                        |
-|-------------+------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------|
-| 18 th April | Chapter 5 (Kernel method)          | Finished multi-class LDA. Started with motivation for modifying data to a new features space, kernel functions.                            |
-|-------------+------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------|
-| 23 rd April |                                    | Finished kernel, mercer theorem and idea of kernelization. Started with kernel PCA.                                                        |
-|-------------+------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------|
-| 25 th April |                                    | Finished kernel PCA, idea of centralization matrix $H= I- 1^T 1$ from left and right. Started with linear regression.                      |
-|             |                                    |                                                                                                                                            |
-|-------------+------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------|
-| 30 th April |                                    | Finished linear regression, started with model regularization(ridge, lasso and elastic net), Will finish kernelization of ridge regression |
-|             |                                    |                                                                                                                                            |
-|-------------+------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------|
-| 2nd May     |                                    | Finished model complexity and regularization and kernelizing ridge regression                                                              |
-|-------------+------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------|
-| 7 May       | midterm                            |                                                                                                                                            |
-|-------------+------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------|
-|             |                                    |                                                                                                                                            |
+| Date        | Reading/Coding Assignments              | class activity                                                                                                                             |
+|-------------+-----------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------|
+|-------------+-----------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------|
+| 2 - April   | read chapter 1                          | Went over Data Matrix view, properties of vector, projections                                                                              |
+|             |                                         | *Please review, linear independence, column space, row space, rank of matrix*                                                              |
+|             |                                         | *From probability part go over random variables, probability mass function and density function*                                           |
+|             |                                         | *Go over Bernoulli, Binomial and normal random variable*                                                                                   |
+|             | [[https://1drv.ms/o/s!AuJzJXvAm2RThmzwwfh46bqSdtLr][In class scribed notes]]                  | If you have trouble creating virtual environment please install anaconda python 3.7 from                                                   |
+|             |                                         | https://www.anaconda.com/distribution/#download-section                                                                                    |
+|             |                                         |                                                                                                                                            |
+|             |                                         | See video for installation https://www.youtube.com/watch?v=OOFONKvaz0A                                                                     |
+|             |                                         |                                                                                                                                            |
+|             |                                         | To download the notebooks from course website, go inside notebook folder, click on notebook.                                               |
+|             |                                         | This  should render static notebook(You can't run it). Click on raw option, then save resulting                                            |
+|             |                                         | file in folder. You may want to put "" around file name before saving it, otherwise the extension will be .txt                             |
+|             |                                         | Fire up anaconda and use jupyter notebook. You need to load downloaded notebook.                                                           |
+|             |                                         | *To run the cell in notebook press ctr+alt(it will run the cell and create a new empty cell) or ctr+enter(it will run the cell)*           |
+|-------------+-----------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------|
+|-------------+-----------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------|
+| 4 April     | read chapter 2                          | Started with the probabilistic view of the attributes and connection with linear algebra  is highlighted.                                  |
+|-------------+-----------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------|
+|-------------+-----------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------|
+| 9 th April  | read chapter 7 (ignore kernel PCA)      | multi variate random variable and co variance matrix, its property. change of basis formula. Started with PCA motivation.                  |
+|-------------+-----------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------|
+|-------------+-----------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------|
+| 11 th April | chapter 7                               | PCA derivation and application of re construction for image denoising.                                                                     |
+|             |                                         | Convex optimization is not required but if you are interested here is the link to [[http://web.stanford.edu/class/ee364a/][Convex Optimization I]]                                    |
+|             |                                         | by Professor  Stephen Boyd, Stanford University.                                                                                           |
+|             |                                         |                                                                                                                                            |
+|             |                                         | For quick overview see [[https://metacademy.org/graphs/concepts/lagrange_duality#focus%253Dlagrange_multipliers&mode%253Dlearn][metacademy]]                                                                                                          |
+|-------------+-----------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------|
+|-------------+-----------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------|
+| 16 th April | Chapter 20  (ignore kernel part)        | PCA via SVD, minimizing error in PCA is same as maximizing variance, Derived LDA for two classes,                                          |
+|             |                                         | Talked about dimensionality of data in the LDA(Fisher Discriminant analysis) space.                                                        |
+|-------------+-----------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------|
+| 18 th April | Chapter 5 (Kernel method)               | Finished multi-class LDA. Started with motivation for modifying data to a new features space, kernel functions.                            |
+|-------------+-----------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------|
+| 23 rd April |                                         | Finished kernel, mercer theorem and idea of kernelization. Started with kernel PCA.                                                        |
+|-------------+-----------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------|
+| 25 th April |                                         | Finished kernel PCA, idea of centralization matrix $H= I- 1^T 1$ from left and right. Started with linear regression.                      |
+|             |                                         |                                                                                                                                            |
+|-------------+-----------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------|
+| 30 th April |                                         | Finished linear regression, started with model regularization(ridge, lasso and elastic net), Will finish kernelization of ridge regression |
+|             |                                         |                                                                                                                                            |
+|-------------+-----------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------|
+| 2nd May     |                                         | Finished model complexity and regularization and kernelizing ridge regression                                                              |
+|-------------+-----------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------|
+| 7 May       | midterm                                 |                                                                                                                                            |
+|-------------+-----------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------|
+| 9 th May    |                                         | ridge , lasso demo, started logistic regression                                                                                            |
+|             |                                         |                                                                                                                                            |
+|-------------+-----------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------|
+| 14 th May   | chapter 18 probabilistic classification |                                                                                                                                            |
+|             |                                         |                                                                                                                                            |
