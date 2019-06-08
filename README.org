@@ -180,6 +180,9 @@ We'll allow 2 late homework with cutoff of 36 hours. We'll give *ceil(total_mark
 
 ** 28 th May
    [[https://colab.research.google.com/github/psnegi/data_mining/blob/master/notebooks/matrix_factroization.ipynb][matrix factoization]]
+
+** 6 th june
+ - [[https://colab.research.google.com/github/psnegi/data_mining/blob/master/notebooks/k_mean_agglometrative_clustering.ipynb][sklearn k mean and agglomerative clustering]]
 * Course Activity
 
 | Date        | Reading/Coding Assignments                                               | class activity                                                                                                                                  |
