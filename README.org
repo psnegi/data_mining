@@ -53,7 +53,7 @@ We'll allow 2 late homework with cutoff of 36 hours. We'll give *ceil(total_mark
 |------------------------------------------------+-----|
 | Midterm, 7 th May in class                     | 20% |
 |------------------------------------------------+-----|
-| Final, 11 th June in class                     | 30% |
+| Final, 13 th June in class                     | 30% |
 |------------------------------------------------+-----|
 
 
