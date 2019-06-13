@@ -138,7 +138,7 @@ I will go over basic of python and jupyter notebook.
 
 * Quiz
   - [[./hws/quiz1_21May_2019_sol.pdf][quiz 2 sol key]]
-  - [[quiz1_6thJune_2019_sol.pdf][quiz 3 sol key]]
+  - [[./hws/quiz1_6thJune_2019_sol.pdf][quiz 3 sol key]]
 
 
 * Homeworks
