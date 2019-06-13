@@ -136,9 +136,10 @@ I will go over basic of python and jupyter notebook.
    - [[http://pythontutor.com/live.html#mode%3Dedit][Runs and visualizes your python code]]
    - [[https://docs.python.org/3/tutorial/index.html][The Python Tutorial]]  
 
-** Quiz
+* Quiz
   - [[./hws/quiz1_21May_2019_sol.pdf][quiz 2 sol key]]
-  - [[quiz1_6thJune_2019.pdf_sol.pdf][quiz 3 sol key]]
+  - [[quiz1_6thJune_2019_sol.pdf][quiz 3 sol key]]
+
 
 * Homeworks
 We'll allow 2 late homework with cutoff of 36 hours. We'll give *ceil(total_marks_obtained*exp(-(minutes late)/(24*60)))* marks  for  late submitted assignments via email.
